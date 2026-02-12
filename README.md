@@ -21,4 +21,27 @@
 - Pre-loaded with 5 sample tasks on first run (for test demonstration)
 
 ## How to Run
-1. Clone the repository:  
+1. Clone the repository:
+git clone https://github.com/yourusername/flutter-todo-app.git
+text(Replace `yourusername/flutter-todo-app` with your actual repository URL)
+
+2. Navigate to the project folder:
+cd flutter-todo-app
+text3. Install dependencies:
+flutter pub get
+text4. Run the app (on emulator or physical device):
+flutter run
+text## Screenshots
+(Place your screenshot files in a `screenshots/` folder in the repository)
+
+- **Main screen** with the task list (showing the pre-loaded sample tasks):  
+![Main Screen](screenshots/main.png)
+
+- **Adding a task**:  
+![Adding a Task](screenshots/add.png)
+
+- **Completing a task** (checkbox ticked with strike-through text):  
+![Completing a Task](screenshots/complete.png)
+
+- **Deleting a task** (via swipe or delete button):  
+![Deleting a Task](screenshots/delete.png)

@@ -22,14 +22,15 @@
 
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/yourusername/flutter-todo-app.git
-text(Replace `yourusername/flutter-todo-app` with your actual repository URL)
+git clone https://github.com/mwaisemba/flutter-todo-app.git
 
 2. Navigate to the project folder:
 cd flutter-todo-app
-text3. Install dependencies:
+
+3. Install dependencies:
 flutter pub get
-text4. Run the app (on emulator or physical device):
+
+4. Run the app (on emulator or physical device):
 flutter run
 text## Screenshots
 (Place your screenshot files in a `screenshots/` folder in the repository)

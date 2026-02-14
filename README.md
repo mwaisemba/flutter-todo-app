@@ -45,7 +45,7 @@ text## Screenshots
 ![Completing a Task](screenshots/complete.png)
 
 - **Deleting a task** (via swipe or delete button):  
-![Deleting a Task](screenshots/delete.png)
+![Deleting a Task](https://github.com/mwaisemba/flutter-todo-app/blob/main/deleting-task.jpeg)
 
 # todo_list_app
 

@@ -42,7 +42,7 @@ text## Screenshots
 ![Adding a Task](https://github.com/mwaisemba/flutter-todo-app/blob/main/adding-task.jpeg)
 
 - **Completing a task** (checkbox ticked with strike-through text):  
-![Completing a Task](screenshots/complete.png)
+![Completing a Task](https://github.com/mwaisemba/flutter-todo-app/blob/main/completing-task.jpeg)
 
 - **Deleting a task** (via swipe or delete button):  
 ![Deleting a Task](https://github.com/mwaisemba/flutter-todo-app/blob/main/deleting-task.jpeg)

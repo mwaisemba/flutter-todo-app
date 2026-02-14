@@ -37,9 +37,9 @@ text## Screenshots
 
 - **Main screen** with the task list (showing the pre-loaded sample tasks):  
 ![Main Screen](screenshots/main.png)
-
-- **Adding a task**:  
-![Adding a Task](screenshots/add.png)
+![Welcome Screens](https://github.com/mwaisemba/flutter-todo-app/blob/main/adding-task.jpeg)
+- **Adding a task**: 
+![Adding a Task](https://github.com/mwaisemba/flutter-todo-app/blob/main/adding-task.jpeg)
 
 - **Completing a task** (checkbox ticked with strike-through text):  
 ![Completing a Task](screenshots/complete.png)
